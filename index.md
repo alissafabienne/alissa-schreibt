@@ -1,5 +1,3 @@
-<style> body { font-family: "Courier New", Courier, monospace; } </style>
-
 # alissa-schreibt
 
 ### meine einträge:
